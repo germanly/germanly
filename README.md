@@ -1,16 +1,11 @@
-## Hi there 👋
+<p align="center">
+  <img src=https://komarev.com/ghpvc/?username=germanly&color=red&label=🇩🇪
+</p>
+<p align="center">
+  <img src=https://file.garden/aPWYj2QLMUuq5c-w/25CC8C1D-E92B-4404-BBAF-E2D6CD7A777C.gif
+</p>
+<p align="center">
 
-<!--
-**germanly/germanly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# i love italy okay guys?
+## alwo jason todd inlove hikmmore
+[main account](https://github.com/bIoodson)
